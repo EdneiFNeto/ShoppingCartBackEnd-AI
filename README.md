@@ -1,9 +1,6 @@
-Claro 🙂
-Abaixo está um **README.md revisado, organizado e alinhado** com as **configurações corretas de Docker + Prisma** que você está usando agora, incluindo as boas práticas que aplicamos (Docker Compose v2, Prisma, seed, etc.).
-
----
-
 # 🛒 ShoppingCart
+
+> **Aviso:** Este projeto foi **100% gerado por IA generativa**, utilizando o **gemani Assistent**. Todo o código, estrutura e conteúdo foram criados automaticamente, sem desenvolvimento manual direto.
 
 API de carrinho de compras desenvolvida em **Node.js**, utilizando **Prisma ORM** e **PostgreSQL**, com ambiente totalmente containerizado via **Docker**.
 
