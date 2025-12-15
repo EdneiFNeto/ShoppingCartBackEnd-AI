@@ -35,7 +35,8 @@ Esta aplicação inclui um `Dockerfile` e um `docker-compose.yml` para facilitar
 Crie um arquivo `.env` na raiz do projeto com a seguinte variável:
 
 ```env
-DATABASE_URL="postgresql://postgres:postgres@postgres:5432/app_db?schema=public"
+DATABASE_URL="postgresql://postgres:postgres@localhost:5432/app_db?schema=public"
+JWT_SECRET="seu_segredo_aqui"
 ```
 
 📌 **Importante:**
