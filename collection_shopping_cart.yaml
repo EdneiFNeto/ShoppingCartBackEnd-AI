@@ -1,0 +1,1812 @@
+type: collection.insomnia.rest/5.0
+schema_version: "5.1"
+name: Zoop
+meta:
+  id: wrk_ec23fedd2f984550b58459c9b0deff4a
+  created: 1741027595322
+  modified: 1765804247041
+  description: ""
+collection:
+  - name: Zoop
+    meta:
+      id: fld_503f1ae4e7c74403a4e0d62951659a43
+      created: 1620981372082
+      modified: 1620981372082
+      sortKey: -1620981372082
+      description: ""
+    children:
+      - name: AUTH
+        meta:
+          id: fld_12a1d3a8636c4f7e823e966bb225a0b0
+          created: 1623074808002
+          modified: 1623074808002
+          sortKey: -1623074808002
+          description: ""
+      - name: Metricas
+        meta:
+          id: fld_0a5c1d9314e54d45ad79ea9f60aa730e
+          created: 1625060365743
+          modified: 1625060365743
+          sortKey: -1622028090042
+          description: ""
+      - name: SendEmail
+        meta:
+          id: fld_60e59a8632324db6934cfaaccf683b34
+          created: 1628618758063
+          modified: 1628618758063
+          sortKey: -1621504731062
+          description: ""
+      - name: Theme
+        meta:
+          id: fld_116986e7ca574feab25c53c234654072
+          created: 1630335875557
+          modified: 1641906051988
+          sortKey: -1623058453033.875
+          description: ""
+      - name: Settings
+        meta:
+          id: fld_3ad392a06138486592e9a6068a87b929
+          created: 1630336235392
+          modified: 1630336235392
+          sortKey: -1621635570807
+          description: ""
+      - name: AuthTerminal
+        meta:
+          id: fld_e288abe8533c4ef1bab8e1f16d5bc4cf
+          created: 1632161239583
+          modified: 1632161239583
+          sortKey: -1622551449022
+          description: ""
+      - name: GetTokenZec
+        meta:
+          id: fld_682bd52b104444199036e5f48bb3edb8
+          created: 1632333094600
+          modified: 1632333094600
+          sortKey: -1622289769532
+          description: ""
+      - name: UpdateTable
+        meta:
+          id: fld_cc3d37875c62472e95040c289a4bc004
+          created: 1632925217154
+          modified: 1632925217154
+          sortKey: -1621243051572
+          description: ""
+      - name: GenerateToken
+        meta:
+          id: fld_0b2054a7387f47038e6f8c8ffdb932e0
+          created: 1633365115118
+          modified: 1641905158875
+          sortKey: -1640026192385
+          description: ""
+      - name: ThemeAws
+        meta:
+          id: fld_fb9b12ba17a44040a447aa495481a3f0
+          created: 1636653907799
+          modified: 1636653907799
+          sortKey: -1622878548384.5
+          description: ""
+      - name: PIX
+        meta:
+          id: fld_c24f29767bc445bc8056211b5d267ab0
+          created: 1639526708568
+          modified: 1639526708568
+          sortKey: -1623009388129.5
+          description: ""
+      - name: AUTH_PRD
+        meta:
+          id: fld_27cbdce252984a6ab181d05f8901928e
+          created: 1639686251969
+          modified: 1639686251969
+          sortKey: -1623042098065.75
+          description: ""
+      - name: ValidToken
+        meta:
+          id: fld_bab00c6e547d436c90fd1cd1904ccb95
+          created: 1640026192335
+          modified: 1640026192335
+          sortKey: -1640026192335
+          description: ""
+      - name: AutoUpdater
+        meta:
+          id: fld_ce97fe16d9c24e2480fcade5475cde2b
+          created: 1644524189149
+          modified: 1644524189149
+          sortKey: -1640026192360
+          description: ""
+      - name: GetAccessTokenZec
+        meta:
+          id: fld_612e842e78804f99824708067735986d
+          created: 1644524350876
+          modified: 1644524402568
+          sortKey: -1640026192372.5
+          description: ""
+      - name: Habilitar Terminal - stage
+        meta:
+          id: fld_2c1eb819b9a54b4994ff5e7e84d83d7c
+          created: 1646413111122
+          modified: 1646413111122
+          sortKey: -1621112211827
+          description: ""
+      - name: Zec-authorize
+        meta:
+          id: fld_16202b9abc174d79810800622a1b6a51
+          created: 1654264490233
+          modified: 1654264490233
+          sortKey: -1654264490233
+          description: ""
+      - name: AutoUpdater
+        meta:
+          id: fld_43f51f3ee3784be1bcf42d739480010c
+          created: 1670592917782
+          modified: 1670592917782
+          sortKey: -1621046791954.5
+          description: ""
+      - name: Zoop-Checkout
+        meta:
+          id: fld_1e5da4442a4f47c0819f011ee2dcc359
+          created: 1679418905218
+          modified: 1679418905218
+          sortKey: -1679418905218
+          description: ""
+        children:
+          - name: Login
+            meta:
+              id: fld_6a4988e02c75430e919183f0b98295f9
+              created: 1679418915129
+              modified: 1679418915129
+              sortKey: -1679418915129
+              description: ""
+      - name: PaymentInit
+        meta:
+          id: fld_d64c9fed2b6847beb3c362f2dae6b081
+          created: 1687268948267
+          modified: 1687268948267
+          sortKey: -1687268948267
+          description: ""
+      - name: TapOnPhone
+        meta:
+          id: fld_945015e8b4cb4a1990437d69694a6091
+          created: 1752155741337
+          modified: 1752155741337
+          sortKey: -1752155741337
+          description: ""
+  - name: Arduino
+    meta:
+      id: fld_d8bfb41d52e542fa927d6444958cb412
+      created: 1630979344577
+      modified: 1630979344577
+      sortKey: -1630979344577
+      description: ""
+    children:
+      - name: LigarLed
+        meta:
+          id: fld_440f802750834482bbdca0f097afcb97
+          created: 1633408261463
+          modified: 1633408261463
+          sortKey: -1633408261463
+          description: ""
+  - name: Firebase
+    meta:
+      id: fld_b159febf0d874a7e801d54c619749bbe
+      created: 1632073105162
+      modified: 1632073105162
+      sortKey: -1632073105162
+      description: ""
+  - name: Api
+    meta:
+      id: fld_18073141887d4f80a501e55095bcf7a5
+      created: 1632080494315
+      modified: 1632080494315
+      sortKey: -1631526224869.5
+      description: ""
+  - name: KStack
+    meta:
+      id: fld_e669f17c90a0409f9f928b1ca61cf1c4
+      created: 1654517078728
+      modified: 1657301786342
+      sortKey: -1655262214741
+      description: ""
+    children:
+      - name: HML
+        meta:
+          id: fld_f8e3dff91d2a4018bcc79977793fe6d4
+          created: 1657908602534
+          modified: 1657908602534
+          sortKey: -1657908602534
+          description: ""
+        children:
+          - name: RetornaTextoAceite
+            meta:
+              id: fld_832c4b2cd67341fb9f742ba48f8b31a6
+              created: 1654808286701
+              modified: 1666630531353
+              sortKey: -1657715276793.7285
+              description: ""
+          - name: Cadastro
+            meta:
+              id: fld_46b02d585c93407abc697ec386e56c8b
+              created: 1657135307394
+              modified: 1657909050974
+              sortKey: -1657715276605.2031
+              description: ""
+          - name: Romaneio
+            meta:
+              id: fld_e7bf3ffe860a4ab994827c8b10753510
+              created: 1657681387870
+              modified: 1666822226160
+              sortKey: -1657715276795.3154
+              description: ""
+          - name: Contratos
+            meta:
+              id: fld_aa9d9ca0fe87482aa3ffe61454c9a91d
+              created: 1657907584805
+              modified: 1669386701328
+              sortKey: -1657715276878.25
+              description: ""
+          - name: CadastroOperador
+            meta:
+              id: fld_aefd9c3185ee43c98781bac11c8d4868
+              created: 1657908613849
+              modified: 1666630554822
+              sortKey: -1657715276828.25
+              description: ""
+          - name: Filiais
+            meta:
+              id: fld_f72ab1307137433ca6c2296844143cd1
+              created: 1657908613858
+              modified: 1666630525869
+              sortKey: -1657715276794.3633
+              description: ""
+          - name: Commodity
+            meta:
+              id: fld_7f57fb7ab6344b07b5df815784138bd0
+              created: 1661365687254
+              modified: 1666822236556
+              sortKey: -1657715276794.3237
+              description: ""
+          - name: Produtores
+            meta:
+              id: fld_c39f3515330743a5aea2363a0aa82c2d
+              created: 1666631517050
+              modified: 1666631517050
+              sortKey: -1657715276793.8872
+              description: ""
+          - name: Movimentacoes
+            meta:
+              id: fld_f8133c5cf5f24687899faff81b7cb347
+              created: 1666822000463
+              modified: 1666822223492
+              sortKey: -1657715276794.998
+              description: ""
+          - name: ModalidadeContrato
+            meta:
+              id: fld_4a589da7e2554918896a34710e7323d6
+              created: 1666961558541
+              modified: 1666961558541
+              sortKey: -1657425292049.6016
+              description: ""
+          - name: MovimentacoesTeste
+            meta:
+              id: fld_00939f013ef34988a3231c6bbf9c87d1
+              created: 1666978454731
+              modified: 1666978454731
+              sortKey: -1657715276794.6807
+              description: ""
+          - name: Transferencia
+            meta:
+              id: fld_3dcac26d4d574109bb51d0956f143513
+              created: 1668769974205
+              modified: 1668769974205
+              sortKey: -1657280299771.8008
+              description: ""
+          - name: ListarNotas
+            meta:
+              id: fld_d0656193c975474dab2ef747bb095bf3
+              created: 1671064665767
+              modified: 1671064665767
+              sortKey: -1657207803632.9004
+              description: ""
+          - name: Carga
+            meta:
+              id: fld_a27bfbd3c9124a2986dba6f4c1167479
+              created: 1672349244446
+              modified: 1672349244446
+              sortKey: -1657171555563.4502
+              description: ""
+          - name: Entrega Diaria
+            meta:
+              id: fld_650231766d82441b8e9fae6d4f16f592
+              created: 1673356709546
+              modified: 1673356709546
+              sortKey: -1657153431528.725
+              description: ""
+          - name: Estoque
+            meta:
+              id: fld_b40657a8a95049f481ad4ff0aff6811a
+              created: 1673628019448
+              modified: 1673628019448
+              sortKey: -1657144369511.3625
+              description: ""
+          - name: CargaDetalhe
+            meta:
+              id: fld_3043a18b7f794885bd1234254043ba92
+              created: 1675039469262
+              modified: 1675039469262
+              sortKey: -1657162493546.0876
+              description: ""
+          - name: Cad produtor App
+            meta:
+              id: fld_c386c73c1701476598d58efb3f6b9298
+              created: 1677239507858
+              modified: 1677258382428
+              sortKey: -1657137572998.3406
+              description: ""
+          - name: Inscricao
+            meta:
+              id: fld_9f2ee396a65b4fc78140b0848ae8c100
+              created: 1678210897896
+              modified: 1678210897896
+              sortKey: -1657136440246.1704
+              description: ""
+          - name: Bids
+            meta:
+              id: fld_777c13cdafd94a999d41b304f564e0e8
+              created: 1682105021067
+              modified: 1682105021067
+              sortKey: -1657135873870.0852
+              description: ""
+            children:
+              - name: Ofertas
+                meta:
+                  id: fld_b607534e0da04240816d1871638567f4
+                  created: 1685304900437
+                  modified: 1685304900437
+                  sortKey: -1685304900437
+                  description: ""
+              - name: Bid
+                meta:
+                  id: fld_6ed1c4e187fa4d3cbd240add0f3191bc
+                  created: 1685304923963
+                  modified: 1685304923963
+                  sortKey: -1685304923963
+                  description: ""
+          - name: Contratos
+            meta:
+              id: fld_0b4201fa90de44ed9cb2f566f20a1883
+              created: 1684242505106
+              modified: 1684242505106
+              sortKey: -1657135590682.0425
+              description: ""
+            children:
+              - name: Adicionar
+                meta:
+                  id: fld_aae604c954834fb98cfb1dbfa690d051
+                  created: 1684242515952
+                  modified: 1684242515952
+                  sortKey: -1684242515952
+                  description: ""
+              - name: Pendentes
+                meta:
+                  id: fld_aee83a48be5145d887b0225bf55f0da2
+                  created: 1686248857077
+                  modified: 1686248857077
+                  sortKey: -1686248857078
+                  description: ""
+              - name: Salvar
+                meta:
+                  id: fld_b3fcc4c1d1ac4f118541024b748c8915
+                  created: 1686837446089
+                  modified: 1686837446089
+                  sortKey: -1686837446089
+                  description: ""
+              - name: Listar
+                meta:
+                  id: fld_1c49dad2fbc947278af090ebb11cfc3e
+                  created: 1687367162922
+                  modified: 1687367162922
+                  sortKey: -1687367162922
+                  description: ""
+              - name: Aprovar
+                meta:
+                  id: fld_d893452b043b466b9b1996dc7e44f207
+                  created: 1687469775746
+                  modified: 1687469775746
+                  sortKey: -1685778268645
+                  description: ""
+              - name: Fixar
+                meta:
+                  id: fld_382e775ea7e34cffa7ba6e614cdf1aa9
+                  created: 1687800163054
+                  modified: 1687800163054
+                  sortKey: -1687800163054
+                  description: ""
+          - name: AcompSafra
+            meta:
+              id: fld_2a4a027966604b408d669b0477be1747
+              created: 1690310239656
+              modified: 1690310239656
+              sortKey: -1657715276879.8125
+              description: ""
+          - name: NF-Produtor
+            meta:
+              id: fld_d6105b59766e436aa8f99f9c1fb0dcda
+              created: 1690429137933
+              modified: 1690429137933
+              sortKey: -1657135378291.0107
+              description: ""
+          - name: Usuario
+            meta:
+              id: fld_79957e87f92544a694b0feedd899072b
+              created: 1690558531460
+              modified: 1690558531460
+              sortKey: -1657135342892.5054
+              description: ""
+          - name: Precadastro
+            meta:
+              id: fld_2022b9b1f5054de3b8fb82e05a7daa5a
+              created: 1690819549186
+              modified: 1690819549186
+              sortKey: -1657715276887.625
+              description: ""
+          - name: Login
+            meta:
+              id: fld_818f4f9a59284e01bb39eda04fed5174
+              created: 1690819682202
+              modified: 1690819682202
+              sortKey: -1657715276882.9375
+              description: ""
+          - name: TermoDeAceite
+            meta:
+              id: fld_fe67cb84a3a94f8f90a8daea253899a9
+              created: 1690820326297
+              modified: 1690820326297
+              sortKey: -1657715276880.5938
+              description: ""
+          - name: Fixacao
+            meta:
+              id: fld_2322f8d0519b49a08548f70689a999e9
+              created: 1690821982178
+              modified: 1690821982178
+              sortKey: -1657715276878.6406
+              description: ""
+          - name: Contas
+            meta:
+              id: fld_6501d73caa6640028bb3345ff13e14da
+              created: 1690822491689
+              modified: 1690822491689
+              sortKey: -1657135413689.516
+              description: ""
+          - name: UsuarioCadastro
+            meta:
+              id: fld_7eb3a3b448404203b151c8d5f0047697
+              created: 1691075296330
+              modified: 1691083960391
+              sortKey: -1657715276885.2812
+              description: ""
+          - name: Tempo Romaneio
+            meta:
+              id: fld_b6e18e854f6a47e7945fa9e15b451a92
+              created: 1691682057000
+              modified: 1691682057000
+              sortKey: -1657135325193.2527
+              description: ""
+          - name: Sobre
+            meta:
+              id: fld_4ef9f782328a4233ba0e18a595041ad1
+              created: 1694201031203
+              modified: 1694201031203
+              sortKey: -1657715276880.2031
+              description: ""
+          - name: Contato
+            meta:
+              id: fld_9b58062959724b2cb86fa4ada463e911
+              created: 1702318771245
+              modified: 1702318771245
+              sortKey: -1657135316343.6265
+              description: ""
+          - name: Sobre
+            meta:
+              id: fld_f007d33b043742b9b298cc763fc045d9
+              created: 1702324143853
+              modified: 1702324143853
+              sortKey: -1657135311918.8132
+              description: ""
+          - name: Cidade
+            meta:
+              id: fld_1720b12285114646888ba6afc8c257aa
+              created: 1712522675350
+              modified: 1712522675350
+              sortKey: -1657135309706.4067
+              description: ""
+      - name: PRD
+        meta:
+          id: fld_9b051220b2254dee9b77cf38adf9795c
+          created: 1696281423133
+          modified: 1696281423133
+          sortKey: -1657811939712.375
+          description: ""
+        children:
+          - name: RetornaTextoAceite
+            meta:
+              id: fld_939915be59b54d148dba8d948e2ad3ae
+              created: 1696281423135
+              modified: 1696281423135
+              sortKey: -1657715276793.7285
+              description: ""
+          - name: Cadastro
+            meta:
+              id: fld_424cc523ad7a467ca08465497b510b16
+              created: 1696281423148
+              modified: 1696281423148
+              sortKey: -1657715276605.2031
+              description: ""
+          - name: Romaneio
+            meta:
+              id: fld_54b8e93c22be466fb82d1f8dca50de9c
+              created: 1696281423154
+              modified: 1696281423154
+              sortKey: -1657715276795.3154
+              description: ""
+          - name: Contratos
+            meta:
+              id: fld_862209ca338648908a9bee854c789b53
+              created: 1696281423159
+              modified: 1696281423159
+              sortKey: -1657715276878.25
+              description: ""
+          - name: CadastroOperador
+            meta:
+              id: fld_b1de0d2ef13d48659ebab19d78b1516b
+              created: 1696281423177
+              modified: 1696281423177
+              sortKey: -1657715276828.25
+              description: ""
+          - name: Filiais
+            meta:
+              id: fld_747891838c4e4ad78c8dc7bf08230f6f
+              created: 1696281423183
+              modified: 1696281423183
+              sortKey: -1657715276794.3633
+              description: ""
+          - name: Commodity
+            meta:
+              id: fld_e30288725fb344638405c058e526b4c5
+              created: 1696281423188
+              modified: 1696281423188
+              sortKey: -1657715276794.3237
+              description: ""
+          - name: Produtores
+            meta:
+              id: fld_3a01c34018034b67b8918732e85a3f01
+              created: 1696281423197
+              modified: 1696281423197
+              sortKey: -1657715276793.8872
+              description: ""
+          - name: Movimentacoes
+            meta:
+              id: fld_76de664bd99c466c82e1c408b0f2ea97
+              created: 1696281423202
+              modified: 1696281423202
+              sortKey: -1657715276794.998
+              description: ""
+          - name: ModalidadeContrato
+            meta:
+              id: fld_391bad39f27c42f188d276c27b881eea
+              created: 1696281423208
+              modified: 1696281423208
+              sortKey: -1657425292049.6016
+              description: ""
+          - name: MovimentacoesTeste
+            meta:
+              id: fld_3e7e6d57a27a4b5aa19250b64b82ffdb
+              created: 1696281423213
+              modified: 1696281423213
+              sortKey: -1657715276794.6807
+              description: ""
+          - name: Transferencia
+            meta:
+              id: fld_df71d91759074c7c984625916f6f9df5
+              created: 1696281423220
+              modified: 1696281423220
+              sortKey: -1657280299771.8008
+              description: ""
+          - name: ListarNotas
+            meta:
+              id: fld_ad0a806763714c8bb21b8e92256f5cf9
+              created: 1696281423225
+              modified: 1696281423225
+              sortKey: -1657207803632.9004
+              description: ""
+          - name: Carga
+            meta:
+              id: fld_d658bb988c574dd787e47b8639f07e7e
+              created: 1696281423235
+              modified: 1696281423235
+              sortKey: -1657171555563.4502
+              description: ""
+          - name: Entrega Diaria
+            meta:
+              id: fld_c7b729f594bf48d7bad2e8e5c41aa5d8
+              created: 1696281423241
+              modified: 1696281423241
+              sortKey: -1657153431528.725
+              description: ""
+          - name: Estoque
+            meta:
+              id: fld_276ea86ec8cf4bdbaeea232262aaa133
+              created: 1696281423246
+              modified: 1696281423246
+              sortKey: -1657144369511.3625
+              description: ""
+          - name: CargaDetalhe
+            meta:
+              id: fld_24a54209267742f481e0a0373531fab7
+              created: 1696281423253
+              modified: 1696281423253
+              sortKey: -1657162493546.0876
+              description: ""
+          - name: Cad produtor App
+            meta:
+              id: fld_2481ffeaa6e44016ab5f5939e0ce2d33
+              created: 1696281423258
+              modified: 1696281423258
+              sortKey: -1657137572998.3406
+              description: ""
+          - name: Inscricao
+            meta:
+              id: fld_bcecf952ea524c50bf4b271aa425f92d
+              created: 1696281423269
+              modified: 1696281423269
+              sortKey: -1657136440246.1704
+              description: ""
+          - name: Bids
+            meta:
+              id: fld_9727e0cf351d49b39af15a1caeac5102
+              created: 1696281423275
+              modified: 1696281423275
+              sortKey: -1657135873870.0852
+              description: ""
+            children:
+              - name: Ofertas
+                meta:
+                  id: fld_ea3e453df074465faffe8ebae071d583
+                  created: 1696281423277
+                  modified: 1696281423277
+                  sortKey: -1685304900437
+                  description: ""
+              - name: Bid
+                meta:
+                  id: fld_d4fd43b642f7430c88f0d148fabd70e2
+                  created: 1696281423289
+                  modified: 1696281423289
+                  sortKey: -1685304923963
+                  description: ""
+          - name: Contratos
+            meta:
+              id: fld_536046e09e344b06bd0e94ec64c952ad
+              created: 1696281423299
+              modified: 1696281423299
+              sortKey: -1657135590682.0425
+              description: ""
+            children:
+              - name: Adicionar
+                meta:
+                  id: fld_4c74fa736959434f9310258a8c4947bf
+                  created: 1696281423301
+                  modified: 1696281423301
+                  sortKey: -1684242515952
+                  description: ""
+              - name: Pendentes
+                meta:
+                  id: fld_46b12c82e82e4995b0421205484b3ad7
+                  created: 1696281423316
+                  modified: 1696281423316
+                  sortKey: -1686248857078
+                  description: ""
+              - name: Salvar
+                meta:
+                  id: fld_8bc8bfa4f07c4e6fbdaf0e362d3f7f41
+                  created: 1696281423321
+                  modified: 1696281423321
+                  sortKey: -1686837446089
+                  description: ""
+              - name: Listar
+                meta:
+                  id: fld_8a8d0ccfa53c490a8a129a0042dfd09e
+                  created: 1696281423327
+                  modified: 1696281423327
+                  sortKey: -1687367162922
+                  description: ""
+              - name: Aprovar
+                meta:
+                  id: fld_5641c47b7b7e41c3b23951979ab2b1b7
+                  created: 1696281423333
+                  modified: 1696281423333
+                  sortKey: -1685778268645
+                  description: ""
+              - name: Fixar
+                meta:
+                  id: fld_bc3d14bdb202455ea12c71b92a2559a6
+                  created: 1696281423339
+                  modified: 1696281423339
+                  sortKey: -1687800163054
+                  description: ""
+          - name: AcompSafra
+            meta:
+              id: fld_f453de34f4a4494ea907a998021ad53b
+              created: 1696281423353
+              modified: 1696281423353
+              sortKey: -1657715276879.8125
+              description: ""
+          - name: NF-Produtor
+            meta:
+              id: fld_48b901d5868349349927c8ec5ff7d5fb
+              created: 1696281423370
+              modified: 1696281423370
+              sortKey: -1657135378291.0107
+              description: ""
+          - name: Usuario
+            meta:
+              id: fld_14a8434c431044409b9dc5b20502c5dd
+              created: 1696281423377
+              modified: 1696281423377
+              sortKey: -1657135342892.5054
+              description: ""
+          - name: Precadastro
+            meta:
+              id: fld_b0ef3691810648fcaa23a4d93c42661c
+              created: 1696281423386
+              modified: 1696281423386
+              sortKey: -1657715276887.625
+              description: ""
+          - name: Login
+            meta:
+              id: fld_8a6102f7514944d680c2c78fe5f07398
+              created: 1696281423392
+              modified: 1696281423392
+              sortKey: -1657715276882.9375
+              description: ""
+          - name: TermoDeAceite
+            meta:
+              id: fld_e8fb09492f1045e4898b9c8fc7357009
+              created: 1696281423401
+              modified: 1696281423401
+              sortKey: -1657715276880.5938
+              description: ""
+          - name: Fixacao
+            meta:
+              id: fld_11e11a87270244728c660c3e494b2ed6
+              created: 1696281423408
+              modified: 1696281423408
+              sortKey: -1657715276878.6406
+              description: ""
+          - name: Contas
+            meta:
+              id: fld_2457d330c32248ee900ad1da250893fd
+              created: 1696281423425
+              modified: 1696281423425
+              sortKey: -1657135413689.516
+              description: ""
+          - name: UsuarioCadastro
+            meta:
+              id: fld_64b7c11bbec8401e94992240d5ec6c6b
+              created: 1696281423430
+              modified: 1696281423430
+              sortKey: -1657715276885.2812
+              description: ""
+          - name: Tempo Romaneio
+            meta:
+              id: fld_87f7cb5626bc4fbe8091db52fdcfbd02
+              created: 1696281423437
+              modified: 1696281423437
+              sortKey: -1657135325193.2527
+              description: ""
+          - name: Sobre
+            meta:
+              id: fld_44c7cc5d21c547209ab5d048e5b8785a
+              created: 1696281423442
+              modified: 1696281423442
+              sortKey: -1657715276880.2031
+              description: ""
+      - name: Dev
+        meta:
+          id: fld_83d11a25314f4f00b86ed3cf75310c93
+          created: 1700562964673
+          modified: 1700562964673
+          sortKey: -1657860271123.1875
+          description: ""
+        children:
+          - name: RetornaTextoAceite
+            meta:
+              id: fld_d632d6df56cc42119237dfcc9ae84ca8
+              created: 1700562964676
+              modified: 1700562964676
+              sortKey: -1657715276793.7285
+              description: ""
+          - name: Cadastro
+            meta:
+              id: fld_5388c8435c904164b842f014230546c1
+              created: 1700562964687
+              modified: 1700562964687
+              sortKey: -1657715276605.2031
+              description: ""
+          - name: Romaneio
+            meta:
+              id: fld_fe76220423654c6abea46326a5a6da46
+              created: 1700562964692
+              modified: 1700562964692
+              sortKey: -1657715276795.3154
+              description: ""
+          - name: Contratos
+            meta:
+              id: fld_b40f1369fdd843cd8f6e04050bfc5ed2
+              created: 1700562964697
+              modified: 1700562964697
+              sortKey: -1657715276878.25
+              description: ""
+          - name: CadastroOperador
+            meta:
+              id: fld_795992f0d8c04fd28ab373282f4c1408
+              created: 1700562964708
+              modified: 1700562964708
+              sortKey: -1657715276828.25
+              description: ""
+          - name: Filiais
+            meta:
+              id: fld_fcc8e2931109414b8d458eea73d56756
+              created: 1700562964712
+              modified: 1700562964712
+              sortKey: -1657715276794.3633
+              description: ""
+          - name: Commodity
+            meta:
+              id: fld_9a3c758818f54b8dbb6ec85c37eff1ab
+              created: 1700562964715
+              modified: 1700562964715
+              sortKey: -1657715276794.3237
+              description: ""
+          - name: Produtores
+            meta:
+              id: fld_973deda644024e4a9a0ff5f4733ef0bc
+              created: 1700562964720
+              modified: 1700562964720
+              sortKey: -1657715276793.8872
+              description: ""
+          - name: Movimentacoes
+            meta:
+              id: fld_0b7af0e31c8645a18b5b331dae2c2f7b
+              created: 1700562964723
+              modified: 1700562964723
+              sortKey: -1657715276794.998
+              description: ""
+          - name: ModalidadeContrato
+            meta:
+              id: fld_d57ab456f1ea4c79a91e2fc4e3479675
+              created: 1700562964726
+              modified: 1700562964726
+              sortKey: -1657425292049.6016
+              description: ""
+          - name: Transferencia
+            meta:
+              id: fld_3b194d6ed8bf49a881ed7e6a6abc7c6e
+              created: 1700562964732
+              modified: 1700562964732
+              sortKey: -1657280299771.8008
+              description: ""
+          - name: ListarNotas
+            meta:
+              id: fld_9f63d091a2eb4b1aa0354c0c1ad55934
+              created: 1700562964735
+              modified: 1700562964735
+              sortKey: -1657207803632.9004
+              description: ""
+          - name: Carga
+            meta:
+              id: fld_5b55f722c6a0488bab2517388f5fc48f
+              created: 1700562964739
+              modified: 1700562964739
+              sortKey: -1657171555563.4502
+              description: ""
+          - name: Entrega Diaria
+            meta:
+              id: fld_3b4968546f004c81bf84b865983ee2fb
+              created: 1700562964742
+              modified: 1700562964742
+              sortKey: -1657153431528.725
+              description: ""
+          - name: Estoque
+            meta:
+              id: fld_aa9b0ebb80a44fbb9ca452c6d88e6f5a
+              created: 1700562964744
+              modified: 1700562964744
+              sortKey: -1657144369511.3625
+              description: ""
+          - name: CargaDetalhe
+            meta:
+              id: fld_fc453be950aa4f928fa11e9b0683090a
+              created: 1700562964747
+              modified: 1700562964747
+              sortKey: -1657162493546.0876
+              description: ""
+          - name: Cad produtor App
+            meta:
+              id: fld_f861fe73625649d0bb6516d5c192aea0
+              created: 1700562964749
+              modified: 1700562964749
+              sortKey: -1657137572998.3406
+              description: ""
+          - name: Inscricao
+            meta:
+              id: fld_a99cf8e51b234ab3a716d3025c038e1c
+              created: 1700562964755
+              modified: 1700562964755
+              sortKey: -1657136440246.1704
+              description: ""
+          - name: Bids
+            meta:
+              id: fld_98c7b4d7c12d40ffb75b3c6ade3dd43e
+              created: 1700562964757
+              modified: 1700562964757
+              sortKey: -1657135873870.0852
+              description: ""
+            children:
+              - name: Ofertas
+                meta:
+                  id: fld_0e97fe973f5f40faa851aaa876017612
+                  created: 1700562964758
+                  modified: 1700562964758
+                  sortKey: -1685304900437
+                  description: ""
+              - name: Bid
+                meta:
+                  id: fld_a91e620c058742c5afc65042a6f611dd
+                  created: 1700562964763
+                  modified: 1700562964763
+                  sortKey: -1685304923963
+                  description: ""
+          - name: Contratos
+            meta:
+              id: fld_8a8752745cbd4dd1b57f240c7a0ee8a0
+              created: 1700562964767
+              modified: 1700562964767
+              sortKey: -1657135590682.0425
+              description: ""
+            children:
+              - name: Adicionar
+                meta:
+                  id: fld_1bfd3f164fef44eb852c509c14ec0ea5
+                  created: 1700562964768
+                  modified: 1700562964768
+                  sortKey: -1684242515952
+                  description: ""
+              - name: Pendentes
+                meta:
+                  id: fld_fe73162e6d584139becadf09294310e7
+                  created: 1700562964774
+                  modified: 1700562964774
+                  sortKey: -1686248857078
+                  description: ""
+              - name: Salvar
+                meta:
+                  id: fld_449eb84495594b9882e6fd5b0e4fb701
+                  created: 1700562964777
+                  modified: 1700562964777
+                  sortKey: -1686837446089
+                  description: ""
+              - name: Listar
+                meta:
+                  id: fld_b431194e6f134e61b001fe84afffaf78
+                  created: 1700562964780
+                  modified: 1700562964780
+                  sortKey: -1687367162922
+                  description: ""
+              - name: Aprovar
+                meta:
+                  id: fld_75a4402e951d4019b8815479272ea6c9
+                  created: 1700562964782
+                  modified: 1700562964782
+                  sortKey: -1685778268645
+                  description: ""
+              - name: Fixar
+                meta:
+                  id: fld_b9d92d9517f14814be1452d609a12ef7
+                  created: 1700562964784
+                  modified: 1700562964784
+                  sortKey: -1687800163054
+                  description: ""
+          - name: AcompSafra
+            meta:
+              id: fld_78d2912c22424888864deeec1e9cc053
+              created: 1700562964790
+              modified: 1700562964790
+              sortKey: -1657715276879.8125
+              description: ""
+          - name: NF-Produtor
+            meta:
+              id: fld_ef893e737b9242b1b3f057eb484e65d6
+              created: 1700562964797
+              modified: 1700562964797
+              sortKey: -1657135378291.0107
+              description: ""
+          - name: Usuario
+            meta:
+              id: fld_a5ee788c98c546719faf5a15ced47276
+              created: 1700562964799
+              modified: 1700562964799
+              sortKey: -1657135342892.5054
+              description: ""
+          - name: Precadastro
+            meta:
+              id: fld_76a704d9010c41158f843209c8e4c8a9
+              created: 1700562964803
+              modified: 1700562964803
+              sortKey: -1657715276887.625
+              description: ""
+          - name: Login
+            meta:
+              id: fld_7d4af70d960f4d41b48a10d0f661a6b2
+              created: 1700562964806
+              modified: 1700562964806
+              sortKey: -1657715276882.9375
+              description: ""
+          - name: TermoDeAceite
+            meta:
+              id: fld_3ea1b214cbce4b4e813b42d6788ac452
+              created: 1700562964809
+              modified: 1700562964809
+              sortKey: -1657715276880.5938
+              description: ""
+          - name: Fixacao
+            meta:
+              id: fld_5bf48db39a4947f1be5f8dcf890eb885
+              created: 1700562964812
+              modified: 1700562964812
+              sortKey: -1657715276878.6406
+              description: ""
+          - name: Contas
+            meta:
+              id: fld_4c4031564e7943c0a773759d593f8fac
+              created: 1700562964819
+              modified: 1700562964819
+              sortKey: -1657135413689.516
+              description: ""
+          - name: UsuarioCadastro
+            meta:
+              id: fld_6fd1a5e6876541a48fd9109c1fe5f04e
+              created: 1700562964822
+              modified: 1700562964822
+              sortKey: -1657715276885.2812
+              description: ""
+          - name: Tempo Romaneio
+            meta:
+              id: fld_f0e4aebdd4c34567a80468338981efac
+              created: 1700562964824
+              modified: 1700562964824
+              sortKey: -1657135325193.2527
+              description: ""
+          - name: Sobre
+            meta:
+              id: fld_93635f33dd5e414da57c810d27913f80
+              created: 1700562964827
+              modified: 1700562964827
+              sortKey: -1657715276880.2031
+              description: ""
+      - name: Version-App-IOS
+        meta:
+          id: fld_f8f7f2a4384e42d3986eebce01930b5b
+          created: 1722284271084
+          modified: 1722284271084
+          sortKey: -1722284271084
+          description: ""
+      - name: Version-Android
+        meta:
+          id: fld_eecc0b8e73214574a8ac257dd48749fb
+          created: 1722284288391
+          modified: 1722284288391
+          sortKey: -1722284288391
+          description: ""
+      - name: Chargeback-Dev
+        meta:
+          id: fld_5ac68ab036db40d8888218afbf96d9e7
+          created: 1747673193159
+          modified: 1747673193159
+          sortKey: -1733442800646.5
+          description: ""
+        children:
+          - name: Login
+            meta:
+              id: fld_24d9a8f63b2a45db92911a4717f5cdf2
+              created: 1747673193160
+              modified: 1747673193160
+              sortKey: -1736280590731
+              description: ""
+          - name: Esqueci
+            meta:
+              id: fld_cd51ed9525644f8796a498fbf69d4755
+              created: 1747673193162
+              modified: 1747673193162
+              sortKey: -1736900883738
+              description: ""
+          - name: ListPvs
+            meta:
+              id: fld_88afaade1dac4a92a7ab0a9ec0cb967d
+              created: 1747673193163
+              modified: 1747673193163
+              sortKey: -1737074883119
+              description: ""
+          - name: Listar
+            meta:
+              id: fld_ffc2f40ab67144208cc1c831bb6c5096
+              created: 1747673193164
+              modified: 1747673193164
+              sortKey: -1737138075794
+              description: ""
+          - name: SendDocument
+            meta:
+              id: fld_6945c0512fb442edbb5d7b2dcf8148c6
+              created: 1747673193166
+              modified: 1747673193166
+              sortKey: -1739322818301
+              description: ""
+          - name: Accept
+            meta:
+              id: fld_83179123084347a2a476e17d045d278a
+              created: 1747673193167
+              modified: 1747673193167
+              sortKey: -1739920795198
+              description: ""
+          - name: Unlock
+            meta:
+              id: fld_ef9b6bb14a324560b7b60ed09715307a
+              created: 1748477272570
+              modified: 1748477272570
+              sortKey: -1734861693079
+              description: ""
+      - name: Chargeback-Local
+        meta:
+          id: fld_57c955faf12b498084e43f0df3a67ff9
+          created: 1748290874567
+          modified: 1748290874567
+          sortKey: -1732023910823.75
+          description: ""
+        children:
+          - name: Login
+            meta:
+              id: fld_18c49b8fc9174b9390cff7377a1e8ac6
+              created: 1748290874569
+              modified: 1748290874569
+              sortKey: -1736280590731
+              description: ""
+          - name: ForgotPassword
+            meta:
+              id: fld_6935f1f6a2c94c9793e580bd146a2ba2
+              created: 1748290874571
+              modified: 1748292176470
+              sortKey: -1736280585511.5
+              description: ""
+          - name: Esqueci
+            meta:
+              id: fld_3a530faef77c47d1afa2489294e061fa
+              created: 1748290874572
+              modified: 1748290874572
+              sortKey: -1736900883738
+              description: ""
+          - name: ListPvs
+            meta:
+              id: fld_2eac5a193fd14e168ba0d0089f9449d8
+              created: 1748290874573
+              modified: 1748290874573
+              sortKey: -1737074883119
+              description: ""
+          - name: Listar
+            meta:
+              id: fld_155269b5d2b34b8cb3bc74d8df0f88b1
+              created: 1748290874575
+              modified: 1748290874575
+              sortKey: -1737138075794
+              description: ""
+          - name: SendDocument
+            meta:
+              id: fld_31d48d7772994182b5bf900c48134f75
+              created: 1748290874576
+              modified: 1748290874576
+              sortKey: -1739322818301
+              description: ""
+          - name: Accept
+            meta:
+              id: fld_ae38bad0dd6b41e98d59d5d891609d2f
+              created: 1748290874577
+              modified: 1748290874577
+              sortKey: -1739920795198
+              description: ""
+      - name: Chargeback-HML
+        meta:
+          id: fld_ccf4c709a8504d418548f6741c1d8eb8
+          created: 1765929880971
+          modified: 1765929880971
+          sortKey: -1732733355735.125
+          description: ""
+        children:
+          - name: Login
+            meta:
+              id: fld_1aab9fd65274424ea16da1186cb44ab4
+              created: 1765929880972
+              modified: 1765929880972
+              sortKey: -1736280590731
+              description: ""
+          - name: ListPvs
+            meta:
+              id: fld_323e683ee5094ffb8decbfbe84608c9d
+              created: 1765929880973
+              modified: 1765929880973
+              sortKey: -1737074883119
+              description: ""
+          - name: Esqueci
+            meta:
+              id: fld_def848e2b8134028bc58d091e60a80c8
+              created: 1765929880973
+              modified: 1765929880973
+              sortKey: -1736900883738
+              description: ""
+          - name: Listar
+            meta:
+              id: fld_2eef39b2e8ae4be28bb0c45f532e2a6d
+              created: 1765929880974
+              modified: 1765929880974
+              sortKey: -1737138075794
+              description: ""
+          - name: SendDocument
+            meta:
+              id: fld_7c4ef60ba59d4e55bd207dcfb65f77fa
+              created: 1765929880974
+              modified: 1765929880974
+              sortKey: -1739322818301
+              description: ""
+          - name: Accept
+            meta:
+              id: fld_211d22bc9c2f48689527f89ffdd89e9f
+              created: 1765929880975
+              modified: 1765929880975
+              sortKey: -1739920795198
+              description: ""
+          - name: Unlock
+            meta:
+              id: fld_76299119bf7249629db18cd5a57c63d3
+              created: 1765929880975
+              modified: 1765929880975
+              sortKey: -1734861693079
+              description: ""
+  - name: Tap-On-Phone
+    meta:
+      id: fld_c4afed23aaa945e793815b2b215d126b
+      created: 1656007350754
+      modified: 1656007350754
+      sortKey: -1656007350754
+      description: ""
+    children:
+      - name: Atctive
+        meta:
+          id: fld_87681e4e6fae43e1b887b3c93876d1ca
+          created: 1656007367841
+          modified: 1656007367841
+          sortKey: -1656007367841
+          description: ""
+      - name: AppLink
+        meta:
+          id: fld_308f3cc451424322bee50cd9927849eb
+          created: 1658697319569
+          modified: 1658697319569
+          sortKey: -1656007359297.5
+          description: ""
+  - name: Pix
+    meta:
+      id: fld_c6473147682c4a9d906c4dbe3e1414eb
+      created: 1673312701069
+      modified: 1673312701069
+      sortKey: -1673312701069
+      description: ""
+  - name: WebAndroid
+    meta:
+      id: fld_c249437cabe74ecca0d17189eeb09ae3
+      created: 1677464285801
+      modified: 1677464285801
+      sortKey: -1631252784723.25
+      description: ""
+  - name: FNDE
+    meta:
+      id: fld_b2c9c295b2584614a4c199f10d563a54
+      created: 1678711309878
+      modified: 1678711309878
+      sortKey: -1678711309878
+      description: ""
+    children:
+      - name: GOV
+        meta:
+          id: fld_37b62f7517314c4189fa4125e95eec09
+          created: 1678711344085
+          modified: 1678711344085
+          sortKey: -1678711344086
+          description: ""
+  - name: Test
+    meta:
+      id: fld_73e550ad3acc49cca43eafdb0e8b06c5
+      created: 1678899205165
+      modified: 1678899205165
+      sortKey: -1678899205165
+      description: ""
+  - name: E-Pnae
+    meta:
+      id: fld_bc45aca542624f8aa074e6a42249121e
+      created: 1692739617190
+      modified: 1692739640316
+      sortKey: -1625980358329.5
+      description: ""
+    children:
+      - name: Auth
+        meta:
+          id: fld_bf4f51997b4240dc91609da22495e68e
+          created: 1692739658158
+          modified: 1692739658158
+          sortKey: -1692739658158
+          description: ""
+  - name: Firebase
+    meta:
+      id: fld_8c0839b1211b4f7b8dbd09c2a361d81f
+      created: 1696975419150
+      modified: 1696975419150
+      sortKey: -1685306302087.5
+      description: ""
+  - name: Water-DEV
+    meta:
+      id: fld_622baa6ef5314e3183d6ec5240e3e362
+      created: 1704552055625
+      modified: 1704935862796
+      sortKey: -1704552055625
+      description: ""
+    children:
+      - name: Consume
+        meta:
+          id: fld_2eb7677f7017468888cd552bb2d647b2
+          created: 1704589031146
+          modified: 1704589031146
+          sortKey: -1704552062307
+          description: ""
+      - name: User
+        meta:
+          id: fld_8690942e732f4f5385e5eddb97adb37a
+          created: 1704653416525
+          modified: 1704653416525
+          sortKey: -1704552058966
+          description: ""
+  - name: Water-PRD
+    meta:
+      id: fld_9a1594e79ac6409f8f058557816e2be7
+      created: 1704935873222
+      modified: 1704935873222
+      sortKey: -1698645856891.5
+      description: ""
+    children:
+      - name: Consume
+        meta:
+          id: fld_bfd98e5f0a7d4cc2845e4c52f17f09f0
+          created: 1704935873224
+          modified: 1704935873224
+          sortKey: -1704552062307
+          description: ""
+      - name: User
+        meta:
+          id: fld_3cb62980a9dc421ea8a5c392460cb95b
+          created: 1704935873239
+          modified: 1704935873239
+          sortKey: -1704552058966
+          description: ""
+  - name: Pets
+    meta:
+      id: fld_af16a39d4ccc454d829f6f16cb74a1e5
+      created: 1708565898344
+      modified: 1708565898344
+      sortKey: -1708565898344
+      description: ""
+  - name: OpenWeather
+    meta:
+      id: fld_9bd98beecfab490d972adbcfa63b17ed
+      created: 1709504375152
+      modified: 1709504375152
+      sortKey: -1709504375152
+      description: ""
+  - name: Demo
+    meta:
+      id: fld_fab1180df34e4c0a9fd16b2d8e786bbd
+      created: 1730601209898
+      modified: 1730601209898
+      sortKey: -1730601209898
+      description: ""
+    children:
+      - name: Bets
+        meta:
+          id: fld_1962de37d8524a3eb9b2cee1bdcf8fe2
+          created: 1730605020901
+          modified: 1730608861718
+          sortKey: -1730605020901
+          description: ""
+      - name: prizeDown
+        meta:
+          id: fld_ec95cb7fca77404f81de032c81b20723
+          created: 1730607143216
+          modified: 1730607143216
+          sortKey: -1730603115399.5
+          description: ""
+      - name: Result
+        meta:
+          id: fld_8b25cf8316334d20ad60e08f66e6a7bb
+          created: 1731702482826
+          modified: 1731702489703
+          sortKey: -1730605021001
+          description: ""
+      - name: Lottery
+        meta:
+          id: fld_c6c2337c6e8c49f2a2b686b2ab599ce7
+          created: 1731702887837
+          modified: 1731702887837
+          sortKey: -1730605020951
+          description: ""
+      - name: Winner
+        meta:
+          id: fld_8e9357ab54b44c60919433d119e85951
+          created: 1731726199320
+          modified: 1731726199320
+          sortKey: -1730605020976
+          description: ""
+  - name: Toqan
+    meta:
+      id: fld_3ec15ac8e45b4a61aa197f51d42e2378
+      created: 1749176044976
+      modified: 1755564196183
+      sortKey: -1749176044976
+      description: ""
+  - name: ShoppingCart
+    meta:
+      id: fld_81722b64a8f841dcac4d563dd740e090
+      created: 1766372747402
+      modified: 1766372747402
+      sortKey: -1766372747402
+      description: ""
+    children:
+      - name: Client
+        meta:
+          id: fld_c6a8055a512a4d3d83f08ca62ed1586a
+          created: 1766372765720
+          modified: 1766373291918
+          sortKey: -1766372765720
+          description: ""
+        children:
+          - url: http://localhost:3001/api/clients/register
+            name: register
+            meta:
+              id: req_8f7544bb558d4cfaa061c200a0672cb0
+              created: 1766372768489
+              modified: 1766372828829
+              isPrivate: false
+              description: ""
+              sortKey: -1766372768489
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                  "name": "João Silva",
+                  "email": "joao@example.com",
+                  "cpf": "12345678900",
+                  "phone": "11999998888",
+                  "password": "123456"
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: Auth
+        meta:
+          id: fld_4abc0bd29aa240aaa48d3b27b05dfa4d
+          created: 1766373280125
+          modified: 1766373284917
+          sortKey: -1766372765820
+          description: ""
+        children:
+          - url: http://localhost:3001/api/auth/login
+            name: New Request
+            meta:
+              id: req_059110889b0048aa82373f12c88e41fd
+              created: 1766373294938
+              modified: 1766373434340
+              isPrivate: false
+              description: ""
+              sortKey: -1766373294938
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                  "email": "joao@example.com",
+                  "password": "123456"
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: Product
+        meta:
+          id: fld_9109cf0e9a054481a6070b9507e2be1a
+          created: 1766373468860
+          modified: 1766373468860
+          sortKey: -1766373468860
+          description: ""
+        children:
+          - url: http://localhost:3001/api/products/
+            name: products
+            meta:
+              id: req_0ef799be6e7c4e02a05337bc67b17432
+              created: 1766373472123
+              modified: 1766373549608
+              isPrivate: false
+              description: ""
+              sortKey: -1766373472123
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            authentication:
+              type: bearer
+              token: "{{ _.token }}"
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3001/api/products/1
+            name: product_id
+            meta:
+              id: req_db07957e6ddc4286b9023d286a43c5f0
+              created: 1766373557504
+              modified: 1766373561458
+              isPrivate: false
+              description: ""
+              sortKey: -1766373383530.5
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            authentication:
+              type: bearer
+              token: "{{ _.token }}"
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3001/api/products
+            name: product
+            meta:
+              id: req_241c31b078e2415fb179a081c3f94da9
+              created: 1766373577646
+              modified: 1766373640400
+              isPrivate: false
+              description: ""
+              sortKey: -1766373339234.25
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                  "name": "Camiseta Algodão",
+                  "price": 49.90,
+                  "category": "Roupas"
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            authentication:
+              type: bearer
+              token: "{{ _.token }}"
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: Items
+        meta:
+          id: fld_e92477d78e7c4c6cbcd01c106a42dcb0
+          created: 1766373688301
+          modified: 1766373688301
+          sortKey: -1766373688301
+          description: ""
+        children:
+          - url: http://localhost:3001/api/cart/
+            name: Items
+            meta:
+              id: req_3c09b2cc052c49f4a36332d26b417033
+              created: 1766373691755
+              modified: 1766373785427
+              isPrivate: false
+              description: ""
+              sortKey: -1766373691755
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            authentication:
+              type: bearer
+              token: "{{ _.token }}"
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3001/api/cart/items/1
+            name: Item_id
+            meta:
+              id: req_837b4a77b7cd4f4b8357e19933b5a1b0
+              created: 1766373794811
+              modified: 1766373871609
+              isPrivate: false
+              description: ""
+              sortKey: -1766373581939
+            method: DELETE
+            headers:
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            authentication:
+              type: bearer
+              token: "{{ _.token }}"
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3001/api/cart/items
+            name: Items
+            meta:
+              id: req_905ca733b16c417a80694d64c4efcbd6
+              created: 1766373883200
+              modified: 1766373920992
+              isPrivate: false
+              description: ""
+              sortKey: -1766373636847
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                		"productId": 3,
+                		"quantity": 2
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            authentication:
+              type: bearer
+              token: "{{ _.token }}"
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_80fe083b918c4060ed7bd9da32e063313110964a
+    created: 1765804247059
+    modified: 1766285730818
+  cookies:
+    - id: ea9d503e-bedb-4315-a074-6997259c255e
+      key: PortalChargeback.Name
+      value: CfDJ8AyuxLbMAApNgmG66X0AxfEfJvHnwV4F1tx02ONvXe5V-tx2SEHlZpCrVJjp-seRZr353xzigowr14Ve7FX-WFOpBrNLIIzG4i4H2WJ9qJCDcuMfFngoZIOpczUDFOaOeBu45cWDHd6iwu4ehrIdzaQ
+      domain: hmlksk.kstack.com.br
+      path: /PortalChargeback
+      secure: false
+      httpOnly: true
+      hostOnly: true
+    - id: 03d7b603-77a0-4ae1-affa-dadbcceb7327
+      key: XSRF-TOKEN
+      value: CfDJ8AyuxLbMAApNgmG66X0AxfH6SBEi0fGh634GGUJs7icDwH4ZTJnR-wS3QSYjp2thJRJDDZ1Nf5aM31rOwWfD7APogQ31TPALdx8oGUOU4EKurLeP--YQOU9x7eOFcpLc2QlzPM9-LyNFpviNuJ1zRYg
+      domain: hmlksk.kstack.com.br
+      path: /
+      secure: false
+      httpOnly: false
+      hostOnly: true
+    - id: 6da84f57-ec79-4b63-979d-61a312777986
+      key: PortalChargeback.Name
+      value: CfDJ8LcpSi1pR7tAjiZAcAwKOTz7dmesL25vQ2Ss86Ps2lyOgWZ455NJdbJ0YlQ8Cat5lHVmsFuHmNg6pr6sZAROLS9ArpBRS1AcOtTZY5S-SXNXVrjl5QeLa8vDxmOjpLEBgWbOl9NkMomcTZaySyPHbKw
+      domain: devksk.kstack.com.br
+      path: /PortalChargeback
+      secure: false
+      httpOnly: true
+      hostOnly: true
+    - id: 69bb623e-82a0-4746-b365-e338725e5c8f
+      key: XSRF-TOKEN
+      value: CfDJ8LcpSi1pR7tAjiZAcAwKOTyYm-RDdTJdSqLSsK9E3mMvUlbWWX4vK1gmEsK9WIHNEC456oPiAGftMIz1S7WEjj3JDAlcR8lPyU4koQwCqb4PRnyecJHMYp4VDCqaYgzbEakqh1HfKQ9NRQhSwhiDwV4
+      domain: devksk.kstack.com.br
+      path: /
+      secure: false
+      httpOnly: false
+      hostOnly: true
+environments:
+  name: Base Environment
+  meta:
+    id: env_80fe083b918c4060ed7bd9da32e063313110964a
+    created: 1741027595323
+    modified: 1766373448715
+    isPrivate: false
+  data:
+    token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiZW1haWwiOiJqb2FvQGV4YW1wbGUuY29tIiwiaWF0IjoxNzY2MzczNDM1LCJleHAiOjE3NjYzNzcwMzV9.NaOfvLobPOpLYZ2IuETd7Y49mTeG1xkmxQVbKCaZBdo
+    "": ""
+  subEnvironments:
+    - name: New Environment
+      meta:
+        id: env_cb949cdaac404107b7f5147085df6150
+        created: 1684935005341
+        modified: 1684935005341
+        isPrivate: false
+        sortKey: 1684935005341
+    - name: New Environment
+      meta:
+        id: env_7e688fc08b674bbd85714cc8dacf8271
+        created: 1699292790214
+        modified: 1699292790214
+        isPrivate: false
+        sortKey: 1699292790214
